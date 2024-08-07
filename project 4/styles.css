@@ -1,0 +1,48 @@
+a{
+    color:grey;
+    margin:20px 25px 20px 25px;
+    text-decoration: none;
+}
+
+nav{
+    padding:10px;
+    background-color:white;
+    font-family:sans-serif;
+    font-size:large;
+    display:flex;
+}
+body{
+    background-color:rgb(128, 16, 232);
+}
+#home{
+    margin-left:25%
+}
+#login{
+    margin:10px 10px 10px 5px;
+    padding:10px 30px 10px 30px;
+    background-color:rgb(156, 146, 243);
+    color:white;
+}
+#login:hover{
+    font-size:larger;
+    padding:13px 30px 13px 30px;
+    margin:5px 4px 5px 2px;
+    border-radius:25px;
+}
+#signup{
+    margin:10px 5px 10px 5px;
+    padding:10px 30px 10px 30px;
+    background-color:black;
+    color:white;
+    
+}
+#signup:hover{
+    font-size:larger;
+    padding:12px 25px 12px 25px;
+    margin:5px 0px 5px 0px;
+    border-radius:25px;
+}
+a:hover{
+    margin:5px 25px 15px 25px
+    
+}

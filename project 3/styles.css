@@ -1,0 +1,35 @@
+nav{
+    font-family:sans-serif;
+    display:flex;
+    border-bottom:2px solid rgba(128, 128, 128, 0.222);
+    
+}
+a{
+    margin:20px 0px 20px 30px;
+    text-decoration:none;
+    color:grey;
+    font-size:15px
+}
+a:hover{
+    color:black;
+    border-bottom: 2px solid rgb(0, 102, 255);
+    padding-bottom:20px;
+    margin-bottom:0px;
+}
+h3{
+    margin-left:110px
+}
+#login{
+    margin-left:370px;
+}
+#get{
+    border:2px solid rgb(0, 102, 255);
+    background-color:rgb(0, 102, 255);
+    padding:10px 20px 10px 20px;
+    margin:5px 0px 10px 20px;
+    color:white; 
+
+}
+#get:hover{
+    background-color: rgb(0, 85, 255);
+}

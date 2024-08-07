@@ -1,0 +1,50 @@
+
+#portfolio{
+    margin-left:15%
+}
+#contact{
+    padding:10px 30px 10px 30px;
+    border-radius:7px;
+    margin:10px;
+    margin-left:170px;
+    color:white;
+    background-color:orangered;
+}
+#contact:hover{
+    padding:15px 35px 15px 35px;
+    margin:5px 5px 5px 165px;
+}
+#contact:active{
+    color:black;
+    background-color:white;
+}
+a{
+    text-decoration: none;
+    color:white;
+    padding:10px;
+    margin:10px 15px 10px 15px;
+    
+}
+a:hover{
+    color:orangered;
+    background-color:black;
+}
+a:active{
+    color:white;
+    background-color:orangered;
+}
+nav{
+    border:2px solid #454343;
+    border-radius:40px;
+    display:flex;
+    border:2px solid black;
+    background-color:#282828;
+    font-family:sans-serif;
+}
+h3{
+    margin-left:120px;
+    color:white;
+}
+span{
+    color:orangered;
+}
