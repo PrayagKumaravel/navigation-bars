@@ -1,0 +1,35 @@
+nav{
+    display:flex;
+    font-family: sans-serif;
+    font-size:large;
+    border-bottom:2px solid rgba(0, 0, 0, 0.44);;
+    background-color:rgba(0, 0, 0, 0.373)
+}
+body{
+    background-image:url('backgroundimg.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+a{
+    color:white;;
+    text-decoration:none;
+    margin:20px;
+    padding:10px 20px 10px 20px;
+    border-radius:25px;
+}
+a:hover{
+    background-color:white;
+    color:black;
+    padding:15px 25px 15px 25px;
+    margin:15px 15px 15px 15px;
+}
+#about{
+    margin-left:55%;
+}
+#about:hover{
+    margin:15px 10px 15px 55%;
+}
+#contact{
+    margin-left:50px;
+}
