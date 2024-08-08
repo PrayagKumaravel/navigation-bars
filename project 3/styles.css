@@ -15,6 +15,7 @@ a:hover{
     border-bottom: 2px solid rgb(0, 102, 255);
     padding-bottom:20px;
     margin-bottom:0px;
+    transition:0.08s;
 }
 h3{
     margin-left:110px
@@ -32,4 +33,6 @@ h3{
 }
 #get:hover{
     background-color: rgb(0, 85, 255);
+    border-radius:10px 0px 5px 5px;
+    transition:0.3s;
 }
