@@ -18,3 +18,7 @@ caption{
     font-size:30px;
     font-weight: bold;
 }
+td:hover , th:hover{
+    background-color:black;
+    color:white;
+}
